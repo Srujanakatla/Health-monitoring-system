@@ -35,18 +35,3 @@ Overall, an IoT based health monitoring system can provide a comprehensive appro
 About
 Developed a comprehensive health monitoring system leveraging IoT technologies to collect and analyze real-time health data.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
