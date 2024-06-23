@@ -4,6 +4,7 @@ Health Monitoring system - Undergraduation minor project
 Sensors are interfaced to the embedded world which constantly records data and the data is fetched through server and analysed through graphical representation. The attached sensors on patient’s body form a wireless body sensor network which measures heart rate, ECG and body temperature. The project can detect the abnormal conditions, issue an alarm to the patient and present a graphical view to the physician.
 
 #Main Components used in the project
+
 LM35 Temperature sensor
 
 AD8232 ECG Module
@@ -11,9 +12,11 @@ AD8232 ECG Module
 Digital Heartrate sensor - BPM
 
 #Note
+
 Internally , 12 Bit ADC is used for conversion of values from analog to digital. Therefore , while calcuating temperature , the formula that is implemented is = 3.3 * 1000 /4095 (Where 3.3 V is the Internal Compartor voltage to ADC)
 
 #Overview
+
 IoT based patient health monitoring system is a generic term given to any medical equipment that has internet capability and can measure one or more health data of a patient who is connected to the device such as heartbeat, body temperature, blood pressure, ECG, steps etc. The equipment can record, transmit and alert if there is any abrupt change in the patient’s health.
 
 By this definition, it includes devices such as smart-watches, fitness trackers, smart-phones to expensive hospital equipment which can connect to internet.
